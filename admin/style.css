@@ -1,0 +1,18 @@
+.thumbs-prev div {
+	position: relative;
+	width: 100px;
+	height: 150px;
+	float: left;
+	margin-right: 10px;
+}
+.thumbs-prev div img {
+	width: 100%;
+	cursor: all-scroll;
+}
+.thumbs-prev div span {
+	position: absolute;
+	top: -8px;
+	right: -8px;
+	color: red;
+	cursor: pointer;
+}
