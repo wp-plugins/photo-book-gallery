@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Photo Book Gallery
- * Plugin URI: http://webcodingplace.com/
+ * Plugin URI: http://webcodingplace.com/photo-book-gallery
  * Description: An Amazing Book View of Images
  * Version: 1.0
  * Author: Rameez
- * Author URI: http://webcodingplace.com/photo-book-gallery
+ * Author URI: http://webcodingplace.com/
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: photo-book
