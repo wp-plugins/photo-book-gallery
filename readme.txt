@@ -12,6 +12,7 @@ Create album with page flip effects from your gallery images.
 
 == Description ==
 A Simple but Amazing Gallery Book for Images where you can add multiple images and sort them as per your need, Builtin media uploader is also added.
+<a href="http://webcodingplace.com/photo-book-gallery/">SEE DEMO</a>
 
 == Installation ==
 1. Go to plugins in your dashboard and select 'add new'
