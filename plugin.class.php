@@ -12,29 +12,30 @@ class WCP_Photo_Book
 		add_action('wp_ajax_wcp_save_photo_book_pages', array($this, 'save_pages'));
 
 		$allbooks = get_option('wcp_photo_book');
+		if (isset($allbooks['books'])) {
+			foreach ($allbooks['books'] as $key => $data) {
+				$shortcode = $data['shortcode'];
+				//extracting the real shortcode from []
+				preg_match_all("/\[([^\]]*)\]/", $shortcode, $matches);
+				$full_shortcode = $matches[1][0];
+				add_shortcode( $full_shortcode, function() use ($data){
 
-		foreach ($allbooks['books'] as $key => $data) {
-			$shortcode = $data['shortcode'];
-			//extracting the real shortcode from []
-			preg_match_all("/\[([^\]]*)\]/", $shortcode, $matches);
-			$full_shortcode = $matches[1][0];
-			add_shortcode( $full_shortcode, function() use ($data){
+					wp_register_script( 'wcp-custom-script', plugins_url( 'js/script.js' , __FILE__ ), array('jquery', 'jquery-ui-core') );
+					wp_localize_script( 'wcp-custom-script', 'book', array( 'width' => $data['width'], 'height' => $data['height']));
+					wp_enqueue_style( 'book-css', plugins_url( 'css/jquery.booklet.latest.css' , __FILE__ ));
+					wp_enqueue_script( 'easing-js', plugins_url( 'js/jquery.easing.1.3.js' , __FILE__ ), array('jquery') );
+					wp_enqueue_script( 'book-js', plugins_url( 'js/jquery.booklet.latest.min.js' , __FILE__ ), array('jquery', 'jquery-ui-core', 'jquery-ui-draggable') );
+					wp_enqueue_script( 'wcp-custom-script');
 
-				wp_register_script( 'wcp-custom-script', plugins_url( 'js/script.js' , __FILE__ ), array('jquery', 'jquery-ui-core') );
-				wp_localize_script( 'wcp-custom-script', 'book', array( 'width' => $data['width'], 'height' => $data['height']));
-				wp_enqueue_style( 'book-css', plugins_url( 'css/jquery.booklet.latest.css' , __FILE__ ));
-				wp_enqueue_script( 'easing-js', plugins_url( 'js/jquery.easing.1.3.js' , __FILE__ ), array('jquery') );
-				wp_enqueue_script( 'book-js', plugins_url( 'js/jquery.booklet.latest.min.js' , __FILE__ ), array('jquery', 'jquery-ui-core', 'jquery-ui-draggable') );
-				wp_enqueue_script( 'wcp-custom-script');
-
-				echo '<div class="flipbook">';
-					if ($data['pages'] != '') {
-						foreach ($data['pages'] as $value) {
-							echo '<div><img src="'.$value.'"></div>';
+					echo '<div class="flipbook">';
+						if ($data['pages'] != '') {
+							foreach ($data['pages'] as $value) {
+								echo '<div><img src="'.$value.'"></div>';
+							}
 						}
-					}
-				echo '</div>';
-			} );
+					echo '</div>';
+				} );
+			}
 		}
 	}
 
