@@ -3,7 +3,7 @@
  * Plugin Name: Photo Book Gallery
  * Plugin URI: http://webcodingplace.com/photo-book-gallery
  * Description: An Amazing Page Flip Book for Images with Custom Controls
- * Version: 4.0
+ * Version: 4.1
  * Author: Rameez
  * Author URI: http://webcodingplace.com/
  * License: GPLv2 or later
