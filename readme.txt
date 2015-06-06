@@ -37,6 +37,18 @@ Simple but Amazing Gallery Books for Images where you can add multiple images an
 	<li>Arrows</li>
 </ul>
 
+<h3>Pro Features</h3>
+<ul>
+	<li>Show Posts as Pages</li>
+	<li>Custom Taxonomies Support</li>
+	<li>Custom Terms Support</li>
+	<li>Custom Background Colors</li>
+	<li>WooCommerce Products Book</li>
+	<li>Customize Book free of Charges</li>
+</ul>
+[vimeo 129950681]
+<a href="http://codecanyon.net/item/wordpress-page-flip-book/11556588" target="_blank">Get Pro Here</a>
+
 == Installation ==
 1. Go to plugins in your dashboard and select 'add new'
 2. Search for 'Photo Book Gallery' and install it
