@@ -4,7 +4,7 @@ Tags: gallery, photos, images, book, shortcode, simple, pages, posts, menu, medi
 Donate link: http://webcodingplace.com/contact-us/
 Requires at least: 3.5
 Tested up to: 4.2.1
-Stable tag: 4.2
+Stable tag: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
