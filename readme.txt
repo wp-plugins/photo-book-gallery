@@ -1,7 +1,7 @@
 === Photo Book Gallery ===
 Contributors: Rameez_Iqbal
 Tags: gallery, photos, images, book, shortcode, simple, pages, posts, menu, media uploader, animation, flipbook, flip pages, gallery book, album, photo album, multilanguage, multilingual, international, i18n
-Donate link: http://webcodingplace.com/contact-us/
+Donate link: https://www.2checkout.com/checkout/purchase?sid=202485641&quantity=1&product_id=1
 Requires at least: 3.5
 Tested up to: 4.2.2
 Stable tag: 5.0
