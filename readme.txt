@@ -21,6 +21,7 @@ Simple but Amazing Gallery Books for Images where you can add multiple images an
 	<li>Deutsch</li>
 	<li>Persian</li>
 	<li>Français</li>
+	<li><a href="http://webcodingplace.com/plugin-feature-request/">Request Your Language</a></li>
 </ul>
 <h3>Features</h3>
 <ul>
