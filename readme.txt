@@ -8,7 +8,7 @@ Stable tag: 5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-UNLIMITED Page Flip Books for Images with Custom Controls
+UNLIMITED Page Flip Books for Images with Custom Settings
 
 == Description ==
 Simple but Amazing Gallery Books for Images where you can add multiple images and sort them as per your need, Builtin media uploader is also added.
