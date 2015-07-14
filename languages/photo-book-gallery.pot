@@ -1,0 +1,162 @@
+# Copyright (C) 2015 Photo Book Gallery
+# This file is distributed under the same license as the Photo Book Gallery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo Book Gallery 5.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/photo-book-"
+"gallery\n"
+"POT-Creation-Date: 2015-07-14 08:13:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: plugin.class.php:56
+msgid "Photo Book Gallery Settings"
+msgstr ""
+
+#: plugin.class.php:62 plugin.class.php:140
+msgid "Photo Book"
+msgstr ""
+
+#: plugin.class.php:64 plugin.class.php:142
+msgid "General Settings"
+msgstr ""
+
+#: plugin.class.php:67 plugin.class.php:145
+msgid "Book Width"
+msgstr ""
+
+#: plugin.class.php:69 plugin.class.php:147
+msgid "Book Height"
+msgstr ""
+
+#: plugin.class.php:73 plugin.class.php:151
+msgid "Speed"
+msgstr ""
+
+#: plugin.class.php:75 plugin.class.php:153
+msgid "Starting Page"
+msgstr ""
+
+#: plugin.class.php:79 plugin.class.php:157
+msgid "Reading Direction"
+msgstr ""
+
+#: plugin.class.php:82 plugin.class.php:160
+msgid "Right to Left"
+msgstr ""
+
+#: plugin.class.php:83 plugin.class.php:161
+msgid "Left to Right"
+msgstr ""
+
+#: plugin.class.php:86 plugin.class.php:164
+msgid "Page Padding"
+msgstr ""
+
+#: plugin.class.php:90 plugin.class.php:168
+msgid "Page Numbers"
+msgstr ""
+
+#: plugin.class.php:91 plugin.class.php:118 plugin.class.php:120
+#: plugin.class.php:169 plugin.class.php:190 plugin.class.php:192
+msgid "Show"
+msgstr ""
+
+#: plugin.class.php:92 plugin.class.php:170
+msgid "Closed Book"
+msgstr ""
+
+#: plugin.class.php:93 plugin.class.php:99 plugin.class.php:106
+#: plugin.class.php:112 plugin.class.php:114 plugin.class.php:171
+#: plugin.class.php:178 plugin.class.php:184 plugin.class.php:186
+#: plugin.class.php:198
+msgid "Enable"
+msgstr ""
+
+#: plugin.class.php:96 plugin.class.php:195
+msgid "Book Title (for your reference)"
+msgstr ""
+
+#: plugin.class.php:98 plugin.class.php:197
+msgid "Zoom on Hover"
+msgstr ""
+
+#: plugin.class.php:102 plugin.class.php:174
+msgid "Controls"
+msgstr ""
+
+#: plugin.class.php:105 plugin.class.php:177
+msgid "AutoPlay"
+msgstr ""
+
+#: plugin.class.php:107 plugin.class.php:179
+msgid "AutoPlay delay for each page (in ms)"
+msgstr ""
+
+#: plugin.class.php:111
+msgid "Turn Page by clicking Image"
+msgstr ""
+
+#: plugin.class.php:113 plugin.class.php:185
+msgid "Keyboard Controls"
+msgstr ""
+
+#: plugin.class.php:117 plugin.class.php:189
+msgid "Navigation Tabs"
+msgstr ""
+
+#: plugin.class.php:119 plugin.class.php:191
+msgid "Arrows"
+msgstr ""
+
+#: plugin.class.php:133 plugin.class.php:212
+msgid "Delete"
+msgstr ""
+
+#: plugin.class.php:134 plugin.class.php:213
+msgid "Add New Book"
+msgstr ""
+
+#: plugin.class.php:135 plugin.class.php:214
+msgid "Upload Images"
+msgstr ""
+
+#: plugin.class.php:136
+msgid "Shortcode"
+msgstr ""
+
+#: plugin.class.php:183
+msgid "Turn Page by clicking anywhere"
+msgstr ""
+
+#: plugin.class.php:221
+msgid "Save Changes"
+msgstr ""
+
+#: plugin.class.php:223
+msgid "Changes Saved"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Photo Book Gallery"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://webcodingplace.com/photo-book-gallery-wordpress-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An Amazing Page Flip Book for Images with Custom Controls"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rameez"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webcodingplace.com/"
+msgstr ""
