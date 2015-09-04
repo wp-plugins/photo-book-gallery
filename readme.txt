@@ -79,6 +79,7 @@ Simple but Amazing Gallery Books for Images where you can add multiple images an
 = 5.5 4th September 2015 =
 * Feature Added: Responsive for every Device and Browser
 
+
 = 5.4 1st September 2015 =
 * Support added: Translation for Danish (Dansk)
 * Bug Fixed: Undefined Variables
