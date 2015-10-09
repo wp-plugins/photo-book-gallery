@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo Book Gallery 5.4\n"
+"POT-Creation-Date: 2015-09-01 12:34+0500\n"
+"PO-Revision-Date: 2015-09-01 12:40+0500\n"
+"Last-Translator: \n"
+"Language-Team: WebCodingPlace <rameez.iqbal@live.com>\n"
+"Language: Danish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\5.4\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:56
+msgid "Photo Book Gallery Settings"
+msgstr "Fotobog Gallery indstillinger"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:142
+msgid "Photo Book"
+msgstr "Fotobog"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:64
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:144
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:67
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:147
+msgid "Book Width"
+msgstr "Book Bredde"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:149
+msgid "Book Height"
+msgstr "Bestil Højde"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:153
+msgid "Speed"
+msgstr "Fart"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:155
+msgid "Starting Page"
+msgstr "Starter Side"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:79
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:159
+msgid "Reading Direction"
+msgstr "læseretning"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:82
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:162
+msgid "Right to Left"
+msgstr "Højre til venstre"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:83
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:163
+msgid "Left to Right"
+msgstr "Venstre til Højre"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:86
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:166
+msgid "Page Padding"
+msgstr "side Padding"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:90
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:170
+msgid "Page Numbers"
+msgstr "Sidetal"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:91
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:120
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:171
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:192
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:194
+msgid "Show"
+msgstr "Vis"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:92
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:172
+msgid "Closed Book"
+msgstr "lukket bog"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:93
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:99
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:106
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:112
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:114
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:173
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:180
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:186
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:188
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:200
+msgid "Enable"
+msgstr "Aktiver"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:197
+msgid "Book Title (for your reference)"
+msgstr "Bog Titel (for din reference)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:98
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:199
+msgid "Zoom on Hover"
+msgstr "Zoom på Hover"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:102
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:176
+msgid "Controls"
+msgstr "Controls"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:105
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:179
+msgid "AutoPlay"
+msgstr "Automatisk afspilning"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:107
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:181
+msgid "AutoPlay delay for each page (in ms)"
+msgstr "Obduktioner forsinkelse for hver side (i ms)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:111
+msgid "Turn Page by clicking Image"
+msgstr "Drej side ved at klikke på billede"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:113
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:187
+msgid "Keyboard Controls"
+msgstr "Keyboard Controls"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:117
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:191
+msgid "Navigation Tabs"
+msgstr "Navigation Tabs"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:119
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:193
+msgid "Arrows"
+msgstr "pile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:133
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:214
+msgid "Delete"
+msgstr "Slet"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:134
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:215
+msgid "Add New Book"
+msgstr "Tilføj Ny bog"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:135
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:216
+msgid "Upload Images"
+msgstr "Upload billeder"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:137
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:218
+msgid "Shortcode"
+msgstr "kortkode"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:185
+msgid "Turn Page by clicking anywhere"
+msgstr "Drej side ved at klikke hvor som helst"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:225
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.4/plugin.class.php:227
+msgid "Changes Saved"
+msgstr "ændringer gemt"
